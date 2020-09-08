@@ -7,7 +7,7 @@ body {
 }
 
  #barra_navegacion_principal{
-	background-color: #027ac7;
+	background-color: #ececec;
 } 
 
 
@@ -17,10 +17,20 @@ body {
 	height: 1000px;
 }
 
+#imagenes-index{
+	border-radius: 10px 30px;
+	width: 120px;
+    height: 120px; 
+    float: left;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
 article{
 	background-color: grey;
-	margin: 20px;
+	margin: 10px;
 	padding: 10px;
+	
 }
  p{
  	margin: 10px;
@@ -30,7 +40,11 @@ li{
 	background-color: blue;
 	display: inline;
 	color: white;
-	margin: 10px;
+	margin: 5px;
+	border-radius: 5px;
+    padding: 10px 7px;
+    text-decoration: none;
+    color: #fff;
 }
 
 #pie_pagina{
