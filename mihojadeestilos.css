@@ -1,0 +1,40 @@
+body {
+	background-color: #ececec;
+}
+
+#cabecera{
+	background-color: #005b95;
+}
+
+ #barra_navegacion_principal{
+	background-color: #027ac7;
+} 
+
+
+#barra_lateral{
+	background-color: #004c7d; 
+	float: right;
+	height: 1000px;
+}
+
+article{
+	background-color: grey;
+	margin: 20px;
+	padding: 10px;
+}
+ p{
+ 	margin: 10px;
+ }
+
+li{
+	background-color: blue;
+	display: inline;
+	color: white;
+	margin: 10px;
+}
+
+#pie_pagina{
+	margin: 10px;
+	clear: both;
+}
+
