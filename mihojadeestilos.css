@@ -11,11 +11,6 @@ body {
 } 
 
 
-#barra_lateral{
-	background-color: #004c7d; 
-	float: right;
-	height: 1000px;
-}
 
 li a {
   color: white;
